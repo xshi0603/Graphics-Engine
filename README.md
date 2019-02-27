@@ -6,7 +6,7 @@ This graphic engine creates a gif of a expanding, spinning sphere. The shape tha
 
 ## How to run it:
 
-In order to run this program, simply locate enter the folder on your local machine and type the following command:
+In order to run this program, first clone the repo onto your local machine. Then, locate and enter the folder and type the following command:
 
 ```
 make

@@ -1,5 +1,7 @@
 # Graphics-Engine
 
+## Stuyvesant High School
+
 ## Created by: Xing Tao Shi
 
 This graphic engine creates a gif of a expanding, spinning sphere. The shape that is created is dependent on the contents of the file *simple_anim.mdl*.
